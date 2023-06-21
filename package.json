@@ -4,7 +4,9 @@
   "description": "MarlinKit ReactJs component library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "storybook": "start-storybook",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix"
   },
   "author": {
     "name": "Dhemy",
