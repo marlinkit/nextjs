@@ -6,4 +6,5 @@
 ###> Node & NPM ###
 /node_modules
 npm-debug.log*
+/storybook-static
 ###> Node & NPM ###
