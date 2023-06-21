@@ -1,0 +1,9 @@
+###> IDEs ###
+/.idea
+/.vscode
+###> IDEs ###
+
+###> Node & NPM ###
+/node_modules
+npm-debug.log*
+###> Node & NPM ###
